@@ -7,3 +7,4 @@ TG_BOT_TOKEN 5337555859:AAHGbL2Khcy0l8tDqIWOg05Gp9MRcPE3L64
 COMMAND_HAND_LER
 UPSTREAM_REPO "surcat"
 TZ   Asia/Kolkata
+DB_URI  postgres://hsddfahv:DlrDoWsaZsosWVps9ucmHGs77rD0h52P@fanny.db.elephantsql.com/hsddfahv
